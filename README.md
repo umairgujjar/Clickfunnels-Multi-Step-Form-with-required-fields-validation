@@ -18,7 +18,7 @@ Process to implement this is simple.
 3. Add button to go to next step. Set Action on the button to "Show/Hide Action"
 4. Select the current row/section you would like to hide in "Hide These". (Pro tip here is give data titles to each section/row to make this easier for you e.g 'step 1', 'step 2' etc)
 5. Select the next row/section you would like to show as next questions set in "Show These" option.
-6. Copy the code from code.js to "Settings > Tracking Code > Footer Code"
+6. Copy the code from `multistep-cf.js` to "Settings > Tracking Code > Footer Code"
 7. Save the Page and you are done.
 
 
