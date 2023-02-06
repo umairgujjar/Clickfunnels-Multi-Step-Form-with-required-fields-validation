@@ -19,4 +19,9 @@ Process to implement this is simple.
 
 This code will check if there are required fields in each step and get user back to previous step if there are any un-filled/empty input fields in previous step.
 
+Star this directory:star:
+
+Optionally you can follow me for more.
+
 Feel Free to contact me if you need any help or stuck any where in process. I would love to help out.
+You can always Message on [Twitter](https://twitter.com/MrUmairGujjar) or [LinkedIn](https://www.linkedin.com/in/umairgujjar/) if you need any help
