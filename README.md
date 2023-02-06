@@ -3,10 +3,15 @@ This is how you convert clickfunnels form to a multi step form with required fie
 
 
 I have done this javascript jQuery code to create multistep form for some of my clients on clickfunnels.
+
 You can see this in working on follwing links probably:
+
 https://www.aspenheightsdevelopment.com/submit-deal
+
 https://www.multifamilydealhub.com/create-listing
+
 https://www.sellio.co/squeeze-page-545978801652707519970
+
 https://emmittirwin11.clickfunnels.com/optin41saoc4y
 
 And I thought other people would also need this. So I am sharing this here.
